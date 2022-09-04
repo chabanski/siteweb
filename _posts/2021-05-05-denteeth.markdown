@@ -1,0 +1,13 @@
+---
+layout: post
+title: Mardi et Mercredi
+date: 2021-05-05 13:32:20 +0300
+description: Horaire Denteeth # Add post description (optional)
+img: denteeth.png # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: #[Denteeth, De Bue]
+---
+Clinique Denteeth:
+
+- 72 Rue Xavier De Bue -- 1180 Uccle
+- Tel: 02/218.35.55
